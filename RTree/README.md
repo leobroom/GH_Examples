@@ -1,7 +1,5 @@
-#RTree
+# RTree
 ![Alt text](img/rTreeExample.png?raw=false "rTree Class in Grasshopper/ Rhino")
-
-
 ## Summary
 From the RhinoCommon:
 "RTree represents a spatial search structure based on implementations of the R-tree algorithm by Toni Gutman."
