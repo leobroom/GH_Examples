@@ -2,7 +2,7 @@
 
 ![Alt text](img/ChangeDisplaymode.png?raw=false "Change Display Mode with C# in Grasshopper/ Rhino3d")
 
-change the Display Mode with the help of the Rhino.Display.DisplayModeDescription
+Changes the display mode with the help of the Rhino.Display.DisplayModeDescription
 
 https://developer.rhino3d.com/api/RhinoCommon/html/T_Rhino_Display_DisplayModeDescription.htm
 
