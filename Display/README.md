@@ -1,3 +1,11 @@
+# Set DisplayMode
+
+![Alt text](img/ChangeDisplaymode.png?raw=false "Change Display Mode with C# in Grasshopper/ Rhino3d")
+
+change the Display Mode with the help of the Rhino.Display.DisplayModeDescription
+
+https://developer.rhino3d.com/api/RhinoCommon/html/T_Rhino_Display_DisplayModeDescription.htm
+
 # Display Curves
 
 ![Alt text](img/DisplayCurve.png?raw=false "Display colored curves with C# in Grasshopper/ Rhino3d")
@@ -9,3 +17,10 @@ https://developer.rhino3d.com/api/RhinoCommon/html/M_Rhino_Display_DisplayPipeli
 # Display Points
 
 ![Alt text](img/DisplayPts.png?raw=false "Display colored points with C# in Grasshopper/ Rhino3d")
+
+# Display Planes
+
+![Alt text](img/DisplayPlane.jpg?raw=false "Display Custom Planes with C# in Grasshopper/ Rhino3d")
+
+Displays a Plane and it's X,Y,Z axis. Helpful for debugging.
+
