@@ -1,20 +1,10 @@
 # RTree
-![Alt text](img/Noise Brick Wall_0.png?raw=false "Noise Brick Wall in Grasshopper/ Rhino")
+![Alt text](img/NoiseBrickWall_0.png?raw=false "Noise Brick Wall in Grasshopper/ Rhino")
 ## Summary
-From the RhinoCommon:
-"RTree represents a spatial search structure based on implementations of the R-tree algorithm by Toni Gutman."
-
-The example shows a simple distance calculation.
+xxx
 
 ## Explanation
-What does the examples do?
-
-The rTree C# component outputs all points (yellow) from a point collection located within a cylinder.
-
-To speed up the distance calculation, a rTree is used. This allows us to reduce the search space by including a bounding box. (blue)
-
-For more information visit the awesomewebsite of Luis Quinones:
-http://www.complicitmatter.com/PORTFOLIO/gallopingtopiary/
+xxxx
 
 ## Links
 https://en.wikipedia.org/wiki/R-tree
